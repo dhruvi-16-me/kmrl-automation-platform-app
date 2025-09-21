@@ -73,7 +73,7 @@ export function Header() {
               <DropdownMenuItem>
                 <div className="flex flex-col gap-1">
                   <p className="text-sm font-medium">Document processed</p>
-                  <p className="text-xs text-muted-foreground">Invoice #INV-2024-001 ready for approval</p>
+                  <p className="text-xs text-muted-foreground">Invoice #INV-001 ready for approval</p>
                 </div>
               </DropdownMenuItem>
               <DropdownMenuItem>

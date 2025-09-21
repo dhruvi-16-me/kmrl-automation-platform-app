@@ -121,7 +121,7 @@ export default function HomePage() {
               <div className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
                 <div className="flex-1">
-                  <p className="text-sm font-body-medium">Invoice INV-2024-001 awaiting approval</p>
+                  <p className="text-sm font-body-medium">Invoice INV-001 awaiting approval</p>
                   <p className="text-xs font-body text-muted-foreground">15 minutes ago</p>
                 </div>
                 <Badge variant="outline">Pending</Badge>
@@ -207,7 +207,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t mt-8 pt-4 text-center text-base font-body text-muted-foreground">
-            <p>&copy; 2024 Kochi Metro Rail Limited. Smart India Hackathon Project.</p>
+            <p>&copy; Kochi Metro Rail Limited. All rights reserved.</p>
           </div>
         </footer>
       </div>

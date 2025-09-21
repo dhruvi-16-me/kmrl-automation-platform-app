@@ -92,7 +92,7 @@ export function Sidebar() {
 
           {/* Footer */}
           <div className="px-6 py-4 border-t border-sidebar-border">
-            <p className="text-xs text-muted-foreground">Smart India Hackathon 2024</p>
+            <p className="text-xs text-muted-foreground">KMRL Platform</p>
           </div>
         </div>
       </div>

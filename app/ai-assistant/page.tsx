@@ -102,7 +102,7 @@ export default function AIAssistantPage() {
     }
 
     if (lowerInput.includes("invoice") || lowerInput.includes("payment")) {
-      return "I've analyzed the recent invoice documents. Here's a summary:\n\n**Invoice INV-2024-001** (TechCorp Solutions)\n- Amount: ₹2,45,000\n- Service: Electrical equipment maintenance\n- Status: Pending approval\n- Due Date: January 20, 2024\n- Compliance: All tax documents attached\n\nThe invoice appears to be legitimate and follows standard procurement procedures. It requires approval from the Finance Department head. Would you like me to route this for approval or provide more details?"
+      return "I've analyzed the recent invoice documents. Here's a summary:\n\n**Invoice INV-001** (TechCorp Solutions)\n- Amount: ₹2,45,000\n- Service: Electrical equipment maintenance\n- Status: Pending approval\n- Due Date: January 20\n- Compliance: All tax documents attached\n\nThe invoice appears to be legitimate and follows standard procurement procedures. It requires approval from the Finance Department head. Would you like me to route this for approval or provide more details?"
     }
 
     if (lowerInput.includes("trend") || lowerInput.includes("analysis")) {
